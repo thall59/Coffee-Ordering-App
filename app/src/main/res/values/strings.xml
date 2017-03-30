@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Java Fantasy Coffee</string>
+    <string name="title"> Welcome to Java Fantasy\'s Coffee Ordering Application</string>
+    <string name="subtitle"> We only sell the highest quality coffee in the world for $5!</string>
+    <string name="chocolate_checkBox"> Chocolate ($1 extra)</string>
+    <string name="whipped_cream_checkBox"> Whipped Cream ($1 extra)</string>
+    <string name="quantity_textView"> QUANTITY </string>
+    <string name="decrement_button"> - </string>
+    <string name="show_quantity_textView"> 0 </string>
+    <string name="increment_button"> + </string>
+    <string name="price_textView"> PRICE </string>
+    <string name="show_price_textView"> 0 </string>
+    <string name="order_button"> ORDER </string>
+    <string name="name_editText"> Please enter your name </string>
+    <string name="ten_cups"> You cannot order more than 10 cups of coffee.</string>
+    <string name="negative_cups"> You cannot order -1 coffee.</string>
+    <string name="name_required">Name field required</string>
+    <string name="make_selection"> You have to make a selection first!</string>
+    <string name="name">Name: </string>
+    <string name="whippedCream">Add whipped cream on top? </string>
+    <string name="chocolate1">Add chocolate? </string>
+    <string name="thankyou"> Thank you! </string><string name="total">Total: </string>
+</resources>
